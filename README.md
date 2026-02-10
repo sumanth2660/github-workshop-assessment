@@ -1,4 +1,3 @@
-# github-workshop-assessment
 # GitHub Workshop Assessment
 
 Name: Menati Lokeshwar 
